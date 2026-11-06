@@ -6,18 +6,17 @@ By the end of this lab my user stories have acceptance criteria, my requirements
 ## Sprint backlog
 | Issue | Task | Status |
 |---|---|---|
-| #1 | Add acceptance criteria to each user story | Todo |
-| #2 | Number the requirements and link each story to one | Todo |
-| #3 | Add structure and roadmap to the README | Todo |
+| #1 | Add acceptance criteria to each user story | Done |
+| #2 | Number the requirements and link each story to one | Done |
+| #3 | Add structure and roadmap to the README | Done |
 
-### Daily standup notes
-- Standup 1: [what I will do now / what could block me]
-- Standup 2: [what I did / what is next / any blocker]
+## Standup notes
+Me: I will start with the acceptance criteria because the other tasks depend on them. Possible block: writing criteria that can really be tested. 
 
-### Sprint review
-[What did you finish? What did you show a classmate?]
+## Sprint review
+Finished: issues #1, #2 and #3, merged through pull requests #4, #5 and #6. Not finished: backlog items for evidence and technology notes, planned for the next days.
 
-### Retrospective
-- What went well:
-- What was difficult:
-- What I will change next time:
+## Retrospective
+- What went well: Using branches and pull requests kept main clean and linked each change to an issue.
+- What was difficult: Remembering to write Closes and the right issue number in each pull request.
+- What I will change next time: Commit smaller changes more often and check the board after every merge.
