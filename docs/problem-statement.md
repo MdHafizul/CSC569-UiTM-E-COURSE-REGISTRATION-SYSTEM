@@ -1,13 +1,3 @@
 # Problem Statement
 
-## Who is affected?
-[Users, stakeholders, or businesses]
-
-## What exactly is going wrong?
-[The friction, error, or inefficiency]
-
-## Why does it matter?
-[The impact or cost of the problem]
-
-## Problem statement (3 to 5 sentences)
-[Combine your three answers above into one short paragraph.]
+UiTM students must register for their courses online within a short announced window. Every semester, the e-course registration system becomes slow or inaccessible when many students log in at the same time, and students often cannot even open the registration page. Some students wait up to about three days before they can register successfully. This delays registration, risks losing seats in required courses, and forces students to keep retrying.
