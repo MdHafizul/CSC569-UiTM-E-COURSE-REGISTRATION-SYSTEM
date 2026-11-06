@@ -11,6 +11,24 @@ UiTM students must register for their courses online within a short announced wi
 - [Problem statement](docs/problem-statement.md)
 - [Requirements](docs/requirements.md)
 - [User stories](docs/user-stories.md)
+- [Sprint log](docs/sprint-log.md)
+
+## Project structure
+
+- README.md: project summary and links
+- LICENSE: MIT licence
+- .gitignore: files Git must not track
+- docs/: problem statement, requirements, user stories and sprint log
+- src/: place for source code (empty for now)
+
+## Roadmap
+
+- [x] Problem statement, requirements and user stories
+- [x] Acceptance criteria and numbered requirements
+- [ ] Evidence for the problem statement
+- [ ] Technology notes: machine learning time-series forecasting, with 3 sources
+- [ ] Outline of the technology explanation
+- [ ] Optional: small demo with simulated traffic in src/
 
 ## Status
 
