@@ -1,16 +1,14 @@
 # Sprint Log
 
-## Sprint 1 (Week 3 lab)
+## Sprint goal
+By the end of this lab my user stories have acceptance criteria, my requirements are numbered and linked to the stories, and my README shows the project structure and roadmap.
 
-### Sprint goal
-[One sentence: what do you want to finish by the end of this lab?]
-
-### Sprint backlog
+## Sprint backlog
 | Issue | Task | Status |
-|-------|------|--------|
-| #1 | | To do |
-| #2 | | To do |
-| #3 | | To do |
+|---|---|---|
+| #1 | Add acceptance criteria to each user story | Todo |
+| #2 | Number the requirements and link each story to one | Todo |
+| #3 | Add structure and roadmap to the README | Todo |
 
 ### Daily standup notes
 - Standup 1: [what I will do now / what could block me]
