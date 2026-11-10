@@ -12,6 +12,7 @@ UiTM students must register for their courses online within a short announced wi
 - [Requirements](docs/requirements.md)
 - [User stories](docs/user-stories.md)
 - [Sprint log](docs/sprint-log.md)
+- [Technology notes](docs/technology-notes.md) 
 
 ## Project structure
 
@@ -25,10 +26,9 @@ UiTM students must register for their courses online within a short announced wi
 
 - [x] Problem statement, requirements and user stories
 - [x] Acceptance criteria and numbered requirements
-- [ ] Evidence for the problem statement
-- [ ] Technology notes: machine learning time-series forecasting, with 3 sources
-- [ ] Outline of the technology explanation
-- [ ] Optional: small demo with simulated traffic in src/
+- [x] Evidence for the problem statement
+- [x] Technology notes: machine learning time-series forecasting, with 3 sources
+- [x] Outline of the technology explanation
 
 ## Status
 

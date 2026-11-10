@@ -1,5 +1,10 @@
 # Technology Notes
 
+## Outline of the technology explanation
+- C1 Concepts: what machine learning and time series are; trend, seasonality and event effects; train and test split by time; error measures (MAE, RMSE, MAPE); the pipeline from data to forecast to scaling decision
+- C2 Methods and tools: SARIMA, Prophet, LSTM, scikit-learn and statsmodels, cloud predictive autoscaling
+- C3 Fit to the problem: benefits; limitations (data needs, sudden opening-minute spike, forecast error, privacy and cost, model drift); comparison with reactive autoscaling and fixed capacity
+
 ## Chosen technology
 Machine learning: supervised time-series forecasting of concurrent users, used to decide when to scale cloud servers.
 
